@@ -1,3 +1,5 @@
+## 👋 Hi, there!
+
 Hello! I am shinkeonkim, people call me koa.Currently, I am Kookmin University Undergraduate and, UI/UX designer and Backend Developer.
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshinkeonkim)](https://hits.seeyoufarm.com)
@@ -12,13 +14,14 @@ Hello! I am shinkeonkim, people call me koa.Currently, I am Kookmin University U
 - Software Education
 - UI/UX Design
 
-## Github stats
+## 😏 Github stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=shinkeonkim&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
 
-## Top Langs
+## ✔️ Top Langs
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shinkeonkim&hide=TeX&layout=compact&theme=dark)
 
-## Tech
+## 🚀 Tech
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
