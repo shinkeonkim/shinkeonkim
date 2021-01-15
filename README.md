@@ -19,6 +19,11 @@ Currently, I am Kookmin University Undergraduate and, Web Developer.
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=shinkeonkim&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shinkeonkim&hide=TeX&layout=compact&theme=dark)
 
+
+## BOJ Status(Solved.ac Tier)
+[![Solved.ac 
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=singun11)](https://solved.ac/singun11)
+
 ## 🚀 Tech
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
