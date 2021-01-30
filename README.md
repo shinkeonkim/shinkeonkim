@@ -26,6 +26,7 @@ Currently, I am taking a break from Kookmin University and I work for Grepp as w
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
+![Rails](https://img.shields.io/badge/-Rails-CC0000.svg?logo=rails&style=flat-square)
 
 ## :thinking: Interest
 - Web Dev(ruby on rails, django, etc..)
@@ -37,11 +38,11 @@ Currently, I am taking a break from Kookmin University and I work for Grepp as w
 ## 😏 Github Status & Top Languages
 
 <div>
-    <div style = "display: inline-block; height: 7rem;">
+    <div style = "display: inline-block; width: 30rem">
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=shinkeonkim&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
     </div>
-    <div style = "display: inline-block; height: 7rem;">
+    <div style = "display: inline-block; width: 25rem">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shinkeonkim&hide=TeX&layout=compact&theme=dark)
     </div>
