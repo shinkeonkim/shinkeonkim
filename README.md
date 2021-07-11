@@ -7,6 +7,7 @@ Currently, I am taking a break from Kookmin University and I work for Grepp as w
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCxnPVTZAKfgup-srzKe7ekQl)](https://www.youtube.com/channel/UCxnPVTZAKfgup-srzKe7ekQ)
 [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/singun11)](https://www.facebook.com/singun11)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:singun11@gmail.com)](mailto:singun11@gmail.com)
+![8th](https://likelion-badge.herokuapp.com/api/likelion_shield_badge?generation=8)
 
 ## 🚀 Tech
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
@@ -46,3 +47,5 @@ Currently, I am taking a break from Kookmin University and I work for Grepp as w
 ## BOJ Status(Solved.ac Tier)
 [![Solved.ac 
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=singun11)](https://solved.ac/singun11)
+
+
