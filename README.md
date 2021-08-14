@@ -1,6 +1,7 @@
 ## 👋 Hi, there!
 
 Hello! I am shinkeonkim, people call me Koa or singun11.
+
 Currently, I am taking a break from Kookmin University and I work for Grepp as web developer
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshinkeonkim)](https://hits.seeyoufarm.com)
@@ -10,7 +11,6 @@ Currently, I am taking a break from Kookmin University and I work for Grepp as w
 ![8th](https://likelion-badge.herokuapp.com/api/likelion_shield_badge?generation=8)
 
 ## 🚀 Tech
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django)
 ![Rails](https://img.shields.io/badge/-Rails-CC0000.svg?logo=rails&style=flat-square)
@@ -25,23 +25,14 @@ Currently, I am taking a break from Kookmin University and I work for Grepp as w
 ## :thinking: Interest
 - Web Dev(ruby on rails, django, etc..)
 - algorithm
-- Financial Bot
 - Software Education
 - UI/UX Design
 
 ## 😏 Github Status & Top Languages
 
-<div>
-    <div style = "display: inline-block; width: 30rem">
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=shinkeonkim&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
-    </div>
-    <div style = "display: inline-block; width: 25rem">
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shinkeonkim&hide=TeX&layout=compact&theme=dark)
-    </div>
-
-</div>
 
 
 ## BOJ Status(Solved.ac Tier)
