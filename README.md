@@ -1,6 +1,6 @@
 ## 👋 Hi, there!
 
-Hello! I am shinkeonkim, people call me Koa or singun11.
+Hello! I am shinkeonkim, (nickname: Koa, singun11)
 
 Currently, I am taking a break from Kookmin University and I work for Grepp as web developer
 
