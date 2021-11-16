@@ -6,6 +6,8 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:singun11@gmail.com)](mailto:singun11@gmail.com)
 ![8th](https://likelion-badge.herokuapp.com/api/likelion_shield_badge?generation=8)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=shinkeonkim)](https://github.com/ryo-ma/github-profile-trophy)
+
 ![prgms-profile](https://prgms-badge.herokuapp.com/pr/dark/koa)
   
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=singun11)](https://solved.ac/singun11)
