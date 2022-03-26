@@ -11,9 +11,6 @@
 <a href="https://programmers.co.kr/pr/koa">
 	<img src="https://github.com/musseuk/musseuk/blob/main/programmers.png" width="64" height="64">
 </a>
-<a href="https://github.com/shinkeonkim">
-	<img src="https://github.com/musseuk/musseuk/blob/main/GitHub-light.png" width="64" height="64">
-</a>
 <a href="https://www.instagram.com/keon_119/">
 	<img src="https://github.com/musseuk/musseuk/blob/main/instagram.png" width="64" height="64">
 </a>
