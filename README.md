@@ -44,6 +44,8 @@ Web Dev, Algorithm, Software Education, UI/UX Design
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=shinkeonkim&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-	
+
 ![snake](https://raw.githubusercontent.com/shinkeonkim/shinkeonkim/output/github-contribution-grid-snake.svg)
+
+![contribution](https://activity-graph.herokuapp.com/graph?username=shinkeonkim&bg_color=0D1117&color=70f8ca&line=70f8ca&point=FFFFFF&hide_border=true)
 </div>
