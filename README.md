@@ -7,7 +7,8 @@
 [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/singun11)](https://www.facebook.com/singun11)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:singun11@gmail.com)](mailto:singun11@gmail.com)
 ![8th](https://likelion-badge.herokuapp.com/api/likelion_shield_badge?generation=8)
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=singun11)](https://solved.ac/singun11)
+
+<!-- [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=singun11)](https://solved.ac/singun11) -->
 
 ### My Profiles
 
