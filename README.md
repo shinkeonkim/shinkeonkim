@@ -50,3 +50,11 @@ Web Dev, Algorithm, Software Education, UI/UX Design
 
 ![contribution](https://activity-graph.herokuapp.com/graph?username=shinkeonkim&bg_color=0D1117&color=70f8ca&line=70f8ca&point=FFFFFF&hide_border=true)
 </div>
+
+
+<div align="center" style="text-align:center">
+<!-- <a align="center" href="https://opgc.me/#/users/shinkeonkim" target="_blank"><img src="https://api.opgc.me/githubs/users/shinkeonkim/tag/?theme=dracula" /></a><br> --> 
+<a href="https://www.buymeacoffee.com/singun11"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="singun11" />
+
+</div>
+
