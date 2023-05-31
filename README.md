@@ -48,9 +48,10 @@ Web Dev, Algorithm, Software Education, UI/UX Design
 
 ![snake](https://raw.githubusercontent.com/shinkeonkim/shinkeonkim/output/github-contribution-grid-snake.svg)
 
+<!--
 ![contribution](https://activity-graph.herokuapp.com/graph?username=shinkeonkim&bg_color=0D1117&color=70f8ca&line=70f8ca&point=FFFFFF&hide_border=true)
 </div>
-
+-->
 
 <div align="center" style="text-align:center">
 <!-- <a align="center" href="https://opgc.me/#/users/shinkeonkim" target="_blank"><img src="https://api.opgc.me/githubs/users/shinkeonkim/tag/?theme=dracula" /></a><br> --> 
