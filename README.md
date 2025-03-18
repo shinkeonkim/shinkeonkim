@@ -6,17 +6,17 @@
 - Competitive Programming을 취미로 하고 있습니다.
 
 
-## Career
+## 💻 Career
 - 그렙 (프로그래머스) - 알고리즘 컨텐츠 제작자 (2019.06 ~ 2019.08, 2019.12 ~ 2020.02, 2020.06 ~ 2020.08)
 - 그렙 (프로그래머스) / 채용서비스팀 SW Engineer (2020.12 ~ 2022.11)
 - 특전사령부 > 11공수특전여단 / 정보체계운용정비병(175.103) (2022.11 ~ 2024.05)
 - 그렙 (프로그래머스) / 교육솔루션팀 백엔드 개발자 (2024.07 ~ 2025.03)
 
-## Experience
+## 🍎 Experience
 - 국민대학교 멋쟁이사자처럼 8기 (2020.03 ~ 2020.12)
 - 국민대학교 멋쟁이사자처럼 9, 10, 12, 13기 운영진(2021, 2022, 2024, 2025)
 
-### 🚀 Skills 
+## 🚀 Skills 
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python) ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Rails](https://img.shields.io/badge/-Rails-CC0000.svg?logo=rails&style=flat-square) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django) ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
