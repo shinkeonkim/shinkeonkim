@@ -1,4 +1,4 @@
-# 김신건 Koa [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshinkeonkim)](https://hits.seeyoufarm.com) [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=singun11)](https://solved.ac/singun11)
+# 김신건 Koa [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=singun11)](https://solved.ac/singun11)
 
 - `Python`, `Ruby` 를 사용합니다
 - 여러 분야를 넓게 공부하는 것을 즐깁니다.
