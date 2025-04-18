@@ -29,7 +29,7 @@
 
 ![singun11's solved.ac stats](https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=singun11)
 
-<!-- ![snake](https://raw.githubusercontent.com/shinkeonkim/shinkeonkim/output/github-contribution-grid-snake.svg)-->
+![snake](https://raw.githubusercontent.com/shinkeonkim/shinkeonkim/output/github-contribution-grid-snake.svg)
 
 <!--
 ![contribution](https://activity-graph.herokuapp.com/graph?username=shinkeonkim&bg_color=0D1117&color=70f8ca&line=70f8ca&point=FFFFFF&hide_border=true)
