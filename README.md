@@ -23,9 +23,11 @@
 ![Rails](https://img.shields.io/badge/-Rails-CC0000.svg?logo=rails&style=flat-square) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django) ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 
 
-## Github Stats
+## Visual Stats
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=shinkeonkim&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+![singun11's solved.ac stats](https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=singun11)
 
 <!-- ![snake](https://raw.githubusercontent.com/shinkeonkim/shinkeonkim/output/github-contribution-grid-snake.svg)-->
 
