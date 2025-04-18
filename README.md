@@ -25,15 +25,12 @@
 
 ## Visual Stats
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=shinkeonkim&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
 ![singun11's solved.ac stats](https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=singun11)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=shinkeonkim&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 ![snake](https://raw.githubusercontent.com/shinkeonkim/shinkeonkim/output/github-contribution-grid-snake.svg)
+[![shinkeonkim's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shinkeonkim&bg_color=000000&color=b3a3e1&line=6132e2&point=bca3ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<!--
-![contribution](https://activity-graph.herokuapp.com/graph?username=shinkeonkim&bg_color=0D1117&color=70f8ca&line=70f8ca&point=FFFFFF&hide_border=true)
--->
 
 <!-- <a align="center" href="https://opgc.me/#/users/shinkeonkim" target="_blank"><img src="https://api.opgc.me/githubs/users/shinkeonkim/tag/?theme=dracula" /></a><br> --> 
 <a href="https://www.buymeacoffee.com/singun11"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="singun11" />
