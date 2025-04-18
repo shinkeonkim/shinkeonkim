@@ -4,6 +4,7 @@
 - 여러 분야를 넓게 공부하는 것을 즐깁니다.
 - 주로 `Web Dev`, `Software Education`에 관심을 가지고 있습니다.
 - `Competitive Programming`을 취미로 하고 있습니다.
+- 자세한 내용은 [이곳](https://singun11.notion.site/1c145dc0ef4580629fd0e312f32f4f33)에서 확인해주세요
 
 
 ## 💻 Career
@@ -34,5 +35,4 @@
 
 <!-- <a align="center" href="https://opgc.me/#/users/shinkeonkim" target="_blank"><img src="https://api.opgc.me/githubs/users/shinkeonkim/tag/?theme=dracula" /></a><br> --> 
 <a href="https://www.buymeacoffee.com/singun11"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="singun11" />
-
 
