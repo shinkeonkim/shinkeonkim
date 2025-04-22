@@ -27,6 +27,14 @@
 
 ![singun11's solved.ac stats](https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=singun11)
 
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=shinkeonkim&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/shinkeonkim"
+  width="600"
+  height="300"
+/>
+</a>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=shinkeonkim&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 ![snake](https://raw.githubusercontent.com/shinkeonkim/shinkeonkim/output/github-contribution-grid-snake.svg)
 [![shinkeonkim's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shinkeonkim&bg_color=000000&color=b3a3e1&line=6132e2&point=bca3ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
