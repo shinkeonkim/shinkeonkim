@@ -1,6 +1,16 @@
 # 김신건 Koa [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=singun11)](https://solved.ac/singun11)
 
-![Orgainzation Profile](./introduce-organizations.svg)
+<p align="center">
+  <a href="https://github.com/kokoa-tools">
+    <img src="./kokoa-tools.svg" alt="kokoa-tools" width="31%">
+  </a>
+  <a href="https://github.com/kokoa-study-room">
+    <img src="./kokoa-study-room.svg" alt="kokoa-study-room" width="31%">
+  </a>
+  <a href="https://github.com/kokoa-lab">
+    <img src="./kokoa-lab.svg" alt="kokoa-lab" width="31%">
+  </a>
+</p>
 
 - `Python`, `Ruby` 를 사용합니다
 - 여러 분야를 넓게 공부하는 것을 즐깁니다.
