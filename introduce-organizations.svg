@@ -43,7 +43,7 @@
       <g transform="translate(24,24)" filter="url(#avatarGlow)">
         <circle cx="56" cy="56" r="56" fill="#ffffff" fill-opacity="0.25"/>
         <clipPath id="clip1"><circle cx="56" cy="56" r="56"/></clipPath>
-        <image href="https://raw.githubusercontent.com/shinkeonkim/shinkeonkim/refs/heads/master/kokoa-tools.png" x="0" y="0" width="112" height="112" clip-path="url(#clip1)" preserveAspectRatio="xMidYMid slice"/>
+        <image href="./kokoa-tools.png" x="0" y="0" width="112" height="112" clip-path="url(#clip1)" preserveAspectRatio="xMidYMid slice"/>
       </g>
       <text class="mono" x="152" y="56">@<tspan>kokoa-tools</tspan></text>
       <text class="title" x="152" y="94">코코아 공방</text>
@@ -64,7 +64,7 @@
       <g transform="translate(24,24)" filter="url(#avatarGlow)">
         <circle cx="56" cy="56" r="56" fill="#ffffff" fill-opacity="0.25"/>
         <clipPath id="clip2"><circle cx="56" cy="56" r="56"/></clipPath>
-        <image href="https://raw.githubusercontent.com/shinkeonkim/shinkeonkim/refs/heads/master/kokoa-study-room.png" x="0" y="0" width="112" height="112" clip-path="url(#clip2)" preserveAspectRatio="xMidYMid slice"/>
+        <image href="./kokoa-study-room.png" x="0" y="0" width="112" height="112" clip-path="url(#clip2)" preserveAspectRatio="xMidYMid slice"/>
       </g>
       <text class="mono" x="152" y="56">@<tspan>kokoa-study-room</tspan></text>
       <text class="title" x="152" y="94">코코아 공부방</text>
@@ -85,7 +85,7 @@
       <g transform="translate(24,24)" filter="url(#avatarGlow)">
         <circle cx="56" cy="56" r="56" fill="#ffffff" fill-opacity="0.25"/>
         <clipPath id="clip3"><circle cx="56" cy="56" r="56"/></clipPath>
-        <image href="https://raw.githubusercontent.com/shinkeonkim/shinkeonkim/refs/heads/master/kokoa-lab.png" x="0" y="0" width="112" height="112" clip-path="url(#clip3)" preserveAspectRatio="xMidYMid slice"/>
+        <image href="./kokoa-lab.png" x="0" y="0" width="112" height="112" clip-path="url(#clip3)" preserveAspectRatio="xMidYMid slice"/>
       </g>
       <text class="mono" x="152" y="56">@<tspan>kokoa-lab</tspan></text>
       <text class="title" x="152" y="94">코코아 연구소</text>
