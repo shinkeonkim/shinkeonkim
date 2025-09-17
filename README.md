@@ -1,11 +1,12 @@
 # 김신건 Koa [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=singun11)](https://solved.ac/singun11)
 
+![Orgainzation Profile](./introduce-organizations.svg)
+
 - `Python`, `Ruby` 를 사용합니다
 - 여러 분야를 넓게 공부하는 것을 즐깁니다.
 - 주로 `Web Dev`, `Software Education`에 관심을 가지고 있습니다.
 - `Competitive Programming`을 취미로 하고 있습니다.
 - 자세한 내용은 [이곳](https://singun11.notion.site/1c145dc0ef4580629fd0e312f32f4f33)에서 확인해주세요
-
 
 ## 💻 Career
 - 그렙 (프로그래머스) / 알고리즘 컨텐츠 제작자 (2019.06 ~ 2019.08, 2019.12 ~ 2020.02, 2020.06 ~ 2020.08)
