@@ -1,4 +1,4 @@
-# 김신건 Koa [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=singun11)](https://solved.ac/singun11)
+# 김신건 Koa
 
 <p align="center">
   <a href="https://github.com/kokoa-tools">
@@ -34,6 +34,7 @@
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python) ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Rails](https://img.shields.io/badge/-Rails-CC0000.svg?logo=rails&style=flat-square) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django) ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=singun11)](https://solved.ac/singun11)
 
 
 ## Visual Stats
