@@ -62,8 +62,8 @@
 
 | 프로젝트 | 설명 | 기술 |
 |---------|------|------|
-| **[미핏 · meFit](https://www.shinkeonkim.com/my-portfolio/projects/mefit)** 🏆 | AI 가상면접 훈련 플랫폼 (캡스톤 금상) | Django, Celery, k3s, LangChain, AWS Lambda |
-| **[Athena](https://www.shinkeonkim.com/my-portfolio/projects/athena)** 🏆 | 인터랙티브 AI 알고리즘 학습 플랫폼 (1등) | Django, Rust, gRPC, Docker, LLM |
+| **[미핏 · meFit](https://www.shinkeonkim.com/my-portfolio/projects/mefit)** | AI 가상면접 훈련 플랫폼 | Django, Celery, k3s, LangChain, AWS Lambda |
+| **[Athena](https://www.shinkeonkim.com/my-portfolio/projects/athena)** | 인터랙티브 AI 알고리즘 학습 플랫폼 | Django, Rust, gRPC, Docker, LLM |
 | **[깜빡이 💡](https://www.shinkeonkim.com/my-portfolio/projects/kkambbaki)** | 아동 집중력 향상 AI 교육 게임 | Django, Celery, k8s, ArgoCD |
 
 ---
@@ -94,8 +94,7 @@
 
 ## 🎯 Activity
 
-- **SIPE 4기** (2025) — AI/LLM 활용 미션 발제
-- **국민대 멋쟁이사자처럼** — 8~13기 운영진 · 대표 (2020~2025)
+- **국민대 멋쟁이사자처럼** — 8, 9, 10, 12, 13기 운영진 · 대표 (2020 ~ 2025)
 - **SW교육 강사** — 고등학교 Python/C언어 강의, 대학생 재능봉사
 
 ---
