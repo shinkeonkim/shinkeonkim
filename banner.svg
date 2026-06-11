@@ -1,16 +1,35 @@
-<svg width="1200" height="180" viewBox="0 0 1200 180" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Organizations Banner">
+<svg width="840" height="200" viewBox="0 0 840 200" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="김신건 Koa - Backend Engineer">
+  <rect width="840" height="200" fill="#0f172a"/>
+  <!-- Subtle grid pattern -->
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%"  stop-color="#0ea5e9"/>
-      <stop offset="50%" stop-color="#8b5cf6"/>
-      <stop offset="100%" stop-color="#22c55e"/>
-    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#1e293b" stroke-width="0.5"/>
+    </pattern>
   </defs>
-  <rect x="0" y="0" width="1200" height="180" rx="24" fill="url(#bg)"/>
-  <text x="48" y="74"
-        font-family="system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,Cantarell,Noto Sans,Arial"
-        font-size="34" font-weight="800" fill="#ffffff">Kokoa Organizations</text>
-  <text x="48" y="112"
-        font-family="system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,Cantarell,Noto Sans,Arial"
-        font-size="16" font-weight="500" fill="#ecfeff" opacity="0.9">도구 · 공부 · 연구 — 세 가지 공간을 소개합니다.</text>
+  <rect width="840" height="200" fill="url(#grid)"/>
+  <!-- Accent line -->
+  <rect x="0" y="196" width="840" height="4" fill="#8b5cf6"/>
+  <!-- Main text -->
+  <text x="60" y="85" font-family="system-ui, -apple-system, sans-serif" font-size="40" font-weight="700" fill="#f1f5f9">김신건</text>
+  <text x="210" y="85" font-family="system-ui, -apple-system, sans-serif" font-size="40" font-weight="300" fill="#64748b">KOA</text>
+  <!-- Subtitle -->
+  <text x="60" y="125" font-family="system-ui, -apple-system, sans-serif" font-size="18" fill="#94a3b8">Backend Engineer · Seoul</text>
+  <!-- Tags -->
+  <rect x="60" y="145" width="62" height="26" rx="13" fill="#1e293b" stroke="#334155" stroke-width="1"/>
+  <text x="71" y="163" font-family="system-ui, -apple-system, sans-serif" font-size="12" fill="#8b5cf6">Python</text>
+  <rect x="132" y="145" width="55" height="26" rx="13" fill="#1e293b" stroke="#334155" stroke-width="1"/>
+  <text x="143" y="163" font-family="system-ui, -apple-system, sans-serif" font-size="12" fill="#ef4444">Ruby</text>
+  <rect x="197" y="145" width="87" height="26" rx="13" fill="#1e293b" stroke="#334155" stroke-width="1"/>
+  <text x="208" y="163" font-family="system-ui, -apple-system, sans-serif" font-size="12" fill="#3b82f6">TypeScript</text>
+  <rect x="294" y="145" width="73" height="26" rx="13" fill="#1e293b" stroke="#334155" stroke-width="1"/>
+  <text x="305" y="163" font-family="system-ui, -apple-system, sans-serif" font-size="12" fill="#22c55e">Django</text>
+  <rect x="377" y="145" width="54" height="26" rx="13" fill="#1e293b" stroke="#334155" stroke-width="1"/>
+  <text x="388" y="163" font-family="system-ui, -apple-system, sans-serif" font-size="12" fill="#ef4444">Rails</text>
+  <rect x="441" y="145" width="50" height="26" rx="13" fill="#1e293b" stroke="#334155" stroke-width="1"/>
+  <text x="452" y="163" font-family="system-ui, -apple-system, sans-serif" font-size="12" fill="#f59e0b">k8s</text>
+  <!-- Terminal prompt -->
+  <text x="580" y="85" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="14" fill="#64748b">$ whoami</text>
+  <text x="580" y="110" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="14" fill="#22c55e">&gt; backend_engineer</text>
+  <text x="580" y="135" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="14" fill="#22c55e">&gt; problem_solver</text>
+  <text x="580" y="160" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="14" fill="#64748b">$ _</text>
 </svg>
