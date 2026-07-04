@@ -102,14 +102,14 @@
 ## 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shinkeonkim&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=8b5cf6&icon_color=22c55e&text_color=94a3b8" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shinkeonkim&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=8b5cf6&text_color=94a3b8" height="165">
-</p>
-
-<p align="center">
   <a href="https://solved.ac/singun11">
     <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=singun11" alt="Solved.ac Profile">
   </a>
+</p>
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=shinkeonkim&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=8b5cf6&icon_color=22c55e&text_color=94a3b8" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shinkeonkim&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=8b5cf6&text_color=94a3b8" height="165">
 </p>
 
 <details>
@@ -120,7 +120,7 @@
 
 [![trophy](https://trophygithubreadmelang.cybee.dpdns.org/?username=shinkeonkim&theme=algolia&no-frame=true&row=1&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
-![snake](https://raw.githubusercontent.com/shinkeonkim/shinkeonkim/output/github-contribution-grid-snake-dark.svg)
+![snake](https://raw.githubusercontent.com/shinkeonkim/shinkeonkim/output/github-contribution-grid-snake.svg)
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shinkeonkim&bg_color=0f172a&color=94a3b8&line=8b5cf6&point=22c55e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
