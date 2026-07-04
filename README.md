@@ -118,7 +118,7 @@
 
 <p align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=shinkeonkim&theme=algolia&no-frame=true&row=1&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://trophygithubreadmelang.cybee.dpdns.org/?username=shinkeonkim&theme=algolia&no-frame=true&row=1&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![snake](https://raw.githubusercontent.com/shinkeonkim/shinkeonkim/output/github-contribution-grid-snake-dark.svg)
 
