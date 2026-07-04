@@ -133,7 +133,8 @@
 <p align="center">
   <a href="mailto:dev.shinkeonkim@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/shinkeonkim"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/shinkeonkim"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/shinkeonkim"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=Linkedin"/></a>
+  <a href="https://leetcode.com/u/shinkeonkim"><img src="https://img.shields.io/badge/LeetCode-000000?style=flat-square&logo=LeetCode"/></a>
   <a href="https://shinkeonkim.com"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=hashnode&logoColor=white"/></a>
   <a href="https://www.shinkeonkim.com/my-portfolio/"><img src="https://img.shields.io/badge/Portfolio-8b5cf6?style=flat-square&logo=firefox&logoColor=white"/></a>
 </p>
