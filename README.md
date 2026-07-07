@@ -109,7 +109,6 @@
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=shinkeonkim&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=8b5cf6&icon_color=22c55e&text_color=94a3b8" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shinkeonkim&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=8b5cf6&text_color=94a3b8" height="165">
 </p>
 
 <details>
