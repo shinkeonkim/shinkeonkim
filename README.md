@@ -102,13 +102,11 @@
 ## 📊 Stats
 
 <p align="center">
-  <a href="https://solved.ac/singun11">
-    <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=singun11" alt="Solved.ac Profile">
-  </a>
-</p>
 
-<p align="center">
+  ![singun11's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=singun11)
+
   <img src="https://github-stats-extended.vercel.app/api?username=shinkeonkim&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=8b5cf6&icon_color=22c55e&text_color=94a3b8" height="165">
+
 </p>
 
 <details>
