@@ -70,7 +70,7 @@
 
 ## 🏅 Certifications & Awards
 
-**자격증** — 정보처리기사 · ADsP · PCCP Lv.4 · SQLD · 네트워크 관리사 2급
+**자격증** — AWS CLF-C02 · AWS AIF · 정보처리기사 · ADsP · PCCP Lv.4 · SQLD · 네트워크 관리사 2급 · COS Pro
 
 **수상** — 캡스톤디자인 금상 · 크리에이터 경진대회 1등 · 멋사 해커톤 동상(2회)
 
