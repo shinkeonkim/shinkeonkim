@@ -9,7 +9,7 @@
 
 - 🏢 **(주) 그렙 (프로그래머스)** — 채용서비스팀 · 교육솔루션팀 · 알고리즘 컨텐츠팀 (3년 3개월)
 - 🎓 **국민대학교** 소프트웨어학부 (2026.08 졸업 예정 · GPA 4.42/4.5)
-- 🌐 [Portfolio](https://www.shinkeonkim.com/my-portfolio/) · [Resume](https://www.shinkeonkim.com/my-resume/) · [Blog](https://shinkeonkim.com/)
+- 🌐 [Portfolio](https://portfolio.shinkeonkim.com) · [Resume](https://resume.shinkeonkim.com) · [Blog](https://shinkeonkim.com/)
 
 ---
 
