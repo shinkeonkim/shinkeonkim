@@ -7,6 +7,7 @@
 파악하고 바로 움직이는 SW 엔지니어입니다.
 설계 → 구현 → 공유의 사이클을 빠르게 돌리며, 필요하면 인프라·프론트엔드·AI까지 직접 만들고 운영합니다.
 
+- 🏢 **acrossB** — Full Stack Developer (2026.09 ~ 현재 · Nest.js, React.js, TypeScript, AWS)
 - 🏢 **(주) 그렙 (프로그래머스)** — 채용서비스팀 · 교육솔루션팀 · 알고리즘 컨텐츠팀 (3년 3개월)
 - 🎓 **국민대학교** 소프트웨어전공 학사 (2019.03 ~ 2026.08 · GPA 4.42/4.5 · 전공 4.46/4.5)
 - 🌐 [Portfolio](https://portfolio.shinkeonkim.com/) · [Resume](https://resume.shinkeonkim.com/) · [Blog](https://shinkeonkim.com/)
@@ -26,6 +27,8 @@
 
 **Backend & Framework**
 
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Rails](https://img.shields.io/badge/Rails-CC0000?style=flat-square&logo=rubyonrails&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
@@ -51,6 +54,7 @@
 
 | 기간 | 소속 | 역할 |
 |------|------|------|
+| 2026.09 ~ 현재 | acrossB | Full Stack Developer (Nest.js, React.js, TypeScript, AWS) |
 | 2024.07 ~ 2025.03 | 그렙 · 교육솔루션팀 | SW Engineer (Rails, Django) |
 | 2020.12 ~ 2022.10 | 그렙 · 채용서비스팀 | SW Engineer (Rails, Vue.js, AWS) |
 | 2022.11 ~ 2024.05 | 육군 특전사령부 | 정보체계운용정비병 |
